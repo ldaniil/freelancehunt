@@ -1,0 +1,12 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/dotenv": "^5.0",
+        "illuminate/database": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
